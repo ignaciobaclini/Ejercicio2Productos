@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(39, 50, 56)
+}
+
+p {
+    color: white;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+h1 {
+    font-family: Impact, Charcoal, sans-serif;
+    padding-left: 40%;
+    background-color: aliceblue;
+    color:rgb(105, 133, 147);
+    letter-spacing: 1px;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-style: italic;
+    color:rgb(210, 192, 185) ;
+}
+
+.img-aspiradora{
+    border: 5px solid rgb(210, 192, 185);
+    margin-left: 40px;
+}
+
+.h2-celulares {
+    color: rgb(161, 193, 203);
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-style: italic;
+}
+.img-celulares{
+    border: 5px solid rgb(161, 193, 203);
+    margin-left: 40px;
+}
+.h2-consolas {
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-style: italic;
+    color: rgb(167, 170, 172);
+}
+
+.img-consola {
+    border: 5px solid rgb(167, 170, 172);
+    margin-left: 40px;
+}
+
+.h2-hometheater {
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-style: italic;
+    color: rgb(141, 148, 161);
+}
+
+.img-home-theater {
+    border: 5px solid rgb(141, 148, 161);
+    margin-left: 40px;
+}
+
+.h2-televisor{
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-style: italic;
+    color: rgb(171, 171, 162);
+}
+
+.img-televisor{
+    border: 5px solid rgb(171, 171, 162);
+    margin-left: 40px;
+}
